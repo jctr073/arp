@@ -5,6 +5,6 @@
 	<title>Action Recreational Park</title>
 </head>
 <body>
-	<?php echo "Under Construction" ?>
+	<?php echo "Under Construction. Come back soon!" ?>
 </body>
 </html>
